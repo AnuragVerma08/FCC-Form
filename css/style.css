@@ -20,7 +20,7 @@ label{
 #name,#age,#email{
     width: 100%;
     height: 30px;
-    margin: 2px;
+    margin: 15px 0px;
     border-radius: 5px;
 }
 
@@ -50,4 +50,8 @@ select{
 
 #description{
     letter-spacing: 2px;
+}
+
+input{
+    margin: 10px 10px;
 }
