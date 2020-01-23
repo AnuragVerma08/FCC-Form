@@ -12,6 +12,10 @@ body{
     padding: 2%;
 }
 
+#radiobs, #checkboxes{
+    display: block;
+}
+
 label{
     text-align: left;
     font-family: monospace;
